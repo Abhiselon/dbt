@@ -1,27 +1,25 @@
-# dbt Practice Repository
+# DBT Project Overview 🎯
 
-Welcome to my **dbt (Data Build Tool)** practice repository! This repository showcases my experiments and learning journey with dbt, focusing on data modeling, transformation, and orchestration techniques.
+This project demonstrates the use of dbt (Data Build Tool) for data engineering. The project was developed as part of the learning journey outlined in the LinkedIn course, [Data Engineering with dbt](https://www.linkedin.com/learning/data-engineering-with-dbt/build-your-first-dbt-project) 🎓.
 
-## 🌟 **What's Included**
-- Sample dbt models for **dimensional** and **fact tables**
-- Implementation of **Slowly Changing Dimensions (SCD)** (Types 1 & 2)
-- Optimized SQL queries for efficient transformations
-- Configurations to integrate dbt with tools like **Airflow** and **Starburst**
+The project leverages the capabilities of dbt to transform raw data into structured formats, making it ready for analysis 📊. It focuses on key concepts such as building models, managing dependencies, and implementing best practices for data transformation 🔧.
 
-## 🛠️ **Tech Stack**
-- **dbt**: For data modeling and transformations
-- **SQL**: To define and optimize data transformations
-- **Python**: For auxiliary scripting
-- **Starburst**: Query engine for distributed data sources
+## Project Practice 🛠️
 
-## 📌 **Goals**
-1. Deepen understanding of dbt workflows and capabilities
-2. Explore advanced dbt features and configurations
-3. Build efficient, reusable, and production-ready data models
+For hands-on experience, follow the practice tutorial provided in this repository:
 
-## 🤝 **Contributing**
-Feel free to explore the repository and provide feedback, suggestions, or questions. Contributions to enhance the repository are always welcome!
+- [DBT Project Walkthrough](https://github.com/LinkedInLearning/data-engineering-with-data-build-tool-dbt-4458303/blob/main/assets/tutorial_files/dbt_project_walkthrough.md)
 
----
+Refer to this guide to understand the steps involved in setting up and running a dbt project.
 
-Thank you for visiting my dbt practice repository! 🎉
+## Key Concepts Covered 🔑
+
+- **Building a DBT Project:** Creating models and testing them 💻.
+- **Version Control & Best Practices:** Using Git to manage your dbt project 🗂️.
+- **Data Transformation:** Writing SQL queries within dbt models to transform raw data into usable formats 🔄.
+
+## References 📚
+
+- [DBT GitHub Repository](https://github.com/Abhiselon/dbt)
+
+This repository contains essential code, configuration, and resources used in this project.
