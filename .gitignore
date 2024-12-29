@@ -73,7 +73,6 @@ docs/_build/
 
 # PyBuilder
 .pybuilder/
-target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
@@ -169,3 +168,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+.ipynb_checkpoints
+query_models.ipynb
